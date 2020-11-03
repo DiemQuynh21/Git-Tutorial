@@ -1,3 +1,5 @@
 Đến con khỉ cũng hiểu được lệnh Git
 
 Add: Đăng ký thay đổi trong index
+
+Commit: Lưu lại trạng thái của index
