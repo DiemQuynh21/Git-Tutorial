@@ -1,3 +1,5 @@
 Đến con khỉ cũng hiểu được lệnh Git
 
 Add: Đăng ký thay đổi trong index
+
+Pull: Lấy nội dung của remote repository
