@@ -3,3 +3,6 @@
 Add: Đăng ký thay đổi trong index
 
 Commit: Lưu lại trạng thái của index
+
+Pull: Lấy nội dung của remote repository
+
